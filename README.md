@@ -7,8 +7,8 @@
 Full-stack engineer at **FPT Telecom** and CS student at **HCMUT**. I build products end to end, from Solidity contracts and Go/Python backends to React frontends, mostly in **Web3**, and I bring **AI** into them: LLM agents, RAG and ML models.
 
 **🏆 Achievements**
-- 🥇 **1st Place**, RMIT Hackathon 2026 (Saigon South) · [AIgree](https://github.com/NaNaBoo311/RMIT_HACKATHON_2026), patient-controlled medical records with an AI assistant
-- 🥈 **Top 2**, AI Arena Vietnam · [Việt Phục Du Ký](https://github.com/Nostidus4/The-Vietnamese-Garment-Chronicles), Vietnamese garments with AI try-on
+- 🥇 **1st Place**, RMIT Hackathon 2026 (Saigon South), Tide challenge · [AIgree](https://github.com/NaNaBoo311/RMIT_HACKATHON_2026), patient-controlled medical records with an AI assistant
+- 🥈 **Runner-up**, AI Arena: Viet Nam 2026 (UET × Google, 351 teams) · [Việt Phục Du Ký](https://github.com/Nostidus4/The-Vietnamese-Garment-Chronicles) also ranked #2 in the audition round
 
 **🚀 Featured projects**
 
